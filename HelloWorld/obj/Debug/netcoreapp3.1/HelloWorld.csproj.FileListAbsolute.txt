@@ -1,0 +1,15 @@
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning\Asp.NetCore-EF-Angular\MyProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CopyComplete
